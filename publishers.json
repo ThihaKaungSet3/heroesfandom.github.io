@@ -1,79 +1,79 @@
 [
      {
        "name":"Marvel",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/marvel-min.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/marvel-min.png"
      },
      {
        "name": "DC",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/dc.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/dc.png"
      },
      {
        "name": "2000AD",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/2000AD.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/2000AD.png"
      },
      {
        "name":"Aftershock",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/aftershock.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/aftershock.png"
      },
      {
        "name": "Antartic Press",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/antarctic.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/antarctic.png"
      },
      {
        "name":"Archie",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/archie.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/archie.png"
      },
      {
        "name": "Avater Press",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/avaterpress.jpg"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/avaterpress.jpg"
      },
      {
        "name":"Aspen",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/aspen.jpg"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/aspen.jpg"
      },
      {
        "name": "Black Mask",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/blackmask.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/blackmask.png"
      },
      {
        "name":"Boom Studios",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/boomstudios.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/boomstudios.png"
      },
      {
        "name": "Dark Horse",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/darkhourse.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/darkhourse.png"
      },
      {
        "name": "Dynamite",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/dynamite.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/dynamite.png"
      },
      {
        "name":"IDW",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/IDW.png"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/IDW.png"
      },
      {
        "name": "Lion Forge",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/lionforce.jpg"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/lionforce.jpg"
      },
      {
        "name": "Oni Press",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/Onipress.jpg"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/Onipress.jpg"
      },
      {
        "name":"Valiant",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/valiant.jpg"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/valiant.jpg"
      },
      {
        "name": "Vertigo",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/vertigo.jpeg"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/vertigo.jpeg"
      },
 
      {
        "name": "Wild Storm",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/wildstorm.jpg"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/wildstorm.jpg"
      },
      {
        "name": "Zenescope",
-       "posterUrl": "https://github.com/ThihaKaungSet3/heroesfandom.github.io/blob/master/images/zenescope.jpg"
+       "posterUrl": "https://raw.githubusercontent.com/ThihaKaungSet3/heroesfandom.github.io/master/images/zenescope.jpg"
      }
    ]
