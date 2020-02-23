@@ -1,0 +1,86 @@
+[
+     {
+       "name":"Marvel",
+       "posterUrl": "https://cdn.iconscout.com/icon/free/png-256/marvel-282124.png"
+     },
+     {
+       "name": "DC",
+       "posterUrl": "https://cdn.vox-cdn.com/thumbor/qyUvhWQpC61vjDAf7Qgb95q0WdY=/0x64:1600x1131/1200x800/filters:focal(0x64:1600x1131)/cdn.vox-cdn.com/uploads/chorus_image/image/49612017/DC_Logo_Blue_Final_573b356bd056a9.41641801.0.0.jpg"
+     },
+     {
+       "name":"Image Comics",
+       "posterUrl": ""
+     },
+     {
+       "name": "2000AD",
+       "posterUrl": ""
+     },
+     {
+       "name":"Aftershock",
+       "posterUrl": ""
+     },
+     {
+       "name": "Antartic Press",
+       "posterUrl": ""
+     },
+     {
+       "name":"Archie",
+       "posterUrl": ""
+     },
+     {
+       "name": "Avater Press",
+       "posterUrl": ""
+     },
+     {
+       "name":"Aspen",
+       "posterUrl": ""
+     },
+     {
+       "name": "Black Mask",
+       "posterUrl": ""
+     },
+     {
+       "name":"Boom Studios",
+       "posterUrl": ""
+     },
+     {
+       "name": "Dark Horse",
+       "posterUrl": ""
+     },
+     {
+       "name": "Dynamite",
+       "posterUrl": ""
+     },
+     {
+       "name":"IDW",
+       "posterUrl": ""
+     },
+     {
+       "name": "Lion Forge",
+       "posterUrl": ""
+     },
+     {
+       "name": "Oni Press",
+       "posterUrl": ""
+     },
+     {
+       "name":"Valiant",
+       "posterUrl": ""
+     },
+     {
+       "name": "Vertigo",
+       "posterUrl": ""
+     },
+     {
+       "name":"Valiant",
+       "posterUrl": ""
+     },
+     {
+       "name": "Wild Storm",
+       "posterUrl": ""
+     },
+     {
+       "name": "Zenescope",
+       "posterUrl": ""
+     }
+   ]
