@@ -8,10 +8,6 @@
        "posterUrl": "https://cdn.vox-cdn.com/thumbor/qyUvhWQpC61vjDAf7Qgb95q0WdY=/0x64:1600x1131/1200x800/filters:focal(0x64:1600x1131)/cdn.vox-cdn.com/uploads/chorus_image/image/49612017/DC_Logo_Blue_Final_573b356bd056a9.41641801.0.0.jpg"
      },
      {
-       "name":"Image Comics",
-       "posterUrl": ""
-     },
-     {
        "name": "2000AD",
        "posterUrl": ""
      },
@@ -71,10 +67,7 @@
        "name": "Vertigo",
        "posterUrl": ""
      },
-     {
-       "name":"Valiant",
-       "posterUrl": ""
-     },
+
      {
        "name": "Wild Storm",
        "posterUrl": ""
